@@ -61,7 +61,7 @@ pip install pikepdf
 - **Progresso Detalhado** - Contador de tentativas e percentual
 - **Feedback Imediato** - Status em tempo real
 
-## 📈 Exemplo de Uso
+## Exemplo de Uso
 
 ```
 Total de senhas: 14,344,391
@@ -71,7 +71,7 @@ Testando: admin123
 Senha encontrada: mypassword2023
 ```
 
-## 💻 Código Principal
+## Código Principal
 
 ### Estrutura da Classe
 

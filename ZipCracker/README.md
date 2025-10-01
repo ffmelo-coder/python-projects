@@ -60,6 +60,11 @@ O projeto utiliza um **algoritmo de força bruta** para tentar desbloquear arqui
 
 ## Interface
 
+<img width="603" height="436" alt="image" src="https://github.com/user-attachments/assets/0e615474-e786-4cc8-a06d-f9d106e5b34d" />
+<img width="602" height="432" alt="image" src="https://github.com/user-attachments/assets/9c76196a-fc95-40db-95e4-3fdede5a3167" />
+<img width="603" height="433" alt="image" src="https://github.com/user-attachments/assets/bfa9d7fb-381b-4bb5-9c41-d1eee37c2922" />
+<img width="612" height="451" alt="image" src="https://github.com/user-attachments/assets/7240c250-f960-462c-91b7-eb076cc288a4" />
+
 ## Características Técnicas
 
 - **zipfile** - Biblioteca nativa Python para manipulação de arquivos ZIP
@@ -188,3 +193,4 @@ Este projeto está licenciado sob a **Licença MIT**.
 
 Agradecimentos ao professor Aramuni:
 https://github.com/joaopauloaramuni
+
